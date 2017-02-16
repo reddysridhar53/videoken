@@ -1,0 +1,32 @@
+html,body, .main-container{
+
+  height: 100%;
+  width: 100%;
+  margin:0;
+}
+.main-container{
+
+  background: #eee;
+  padding: 4rem;
+}
+.content-container{
+
+  text-align: center;
+  width:80%;
+  margin:0 auto;
+  height: 100%;
+}
+.youtube-content{
+
+  height: 60%;
+  width: 60%;
+  margin:0 auto;
+}
+.youtube-content iframe{
+
+  width: 100%;
+  height: 100%;
+  margin-left: 10%;
+  margin: 0 auto;
+
+}
