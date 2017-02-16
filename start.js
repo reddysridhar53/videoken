@@ -1,6 +1,6 @@
 $(document).ready(function(){
       
-  var videoIDs = ["M7lc1UVf-VE","M7lc1UVf-VE","M7lc1UVf-VE","M7lc1UVf-VE","M7lc1UVf-VE"];
+  var videoIDs = ["M7lc1UVf-VE","moSFlvxnbgk","dqXZlHp9uRQ","YQHsXMglC9A","nCkpzqqog4k"];
   var videoCount = 0;
   
   getContent(videoIDs[videoCount]).then(function(response){
